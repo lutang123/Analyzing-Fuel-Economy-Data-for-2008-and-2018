@@ -16,6 +16,7 @@ Data Download
 https://www.fueleconomy.gov/feg/download.shtml
 
 The project will answer the following questions:
+
 Q1: Compare the distributions of greenhouse gas score in 2008 and 2018.
 
 Q2: How has the distribution of combined mpg changed from 2008 to 2018?
@@ -30,6 +31,4 @@ Q6: How much have vehicle classes improved in fuel economy?
 
 Q7: What are the characteristics of SmartWay vehicles? Have they changed over time?
 
-Q8: What features are associated with better fuel economy?
-
-Q9: For all of the models that were produced in 2008 that are still being produced now, how much has the mpg improved and which vehicle improved the most?
+Q8: For all of the models that were produced in 2008 that are still being produced now, how much has the mpg improved and which vehicle improved the most?
