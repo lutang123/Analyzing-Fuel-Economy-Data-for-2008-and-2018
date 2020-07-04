@@ -32,3 +32,6 @@ Q6: How much have vehicle classes improved in fuel economy?
 Q7: What are the characteristics of SmartWay vehicles? Have they changed over time?
 
 Q8: For all of the models that were produced in 2008 that are still being produced now, how much has the mpg improved and which vehicle improved the most?
+
+#### Link for code and analysis result: 
+<a href="https://nbviewer.jupyter.org/github/lutang123/Analyzing-Fuel-Economy-Data-for-2008-and-2018/blob/master/Analyzing%20Fuel%20Economy%20Data%20for%202008%20and%202018%20.ipynb">Analyzing Fuel Economy Data</a>
